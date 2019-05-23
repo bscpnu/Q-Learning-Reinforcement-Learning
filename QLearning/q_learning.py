@@ -1,5 +1,8 @@
 import numpy as np
 
+## author: Imam Mustafa Kamal
+## email: imamkamal52@gmail.com
+
 R = np.matrix([[-1, -1, -1, -1, 0, -1],
                    [-1, -1, -1, 0, -1, 100],
                    [-1, -1, -1, 0, -1, -1],
